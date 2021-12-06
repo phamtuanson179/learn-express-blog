@@ -1,0 +1,23 @@
+{
+  "name": "learn-express-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamtuanson179/learn-express-blog.git"
+  },
+  "author": "sonpt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phamtuanson179/learn-express-blog/issues"
+  },
+  "homepage": "https://github.com/phamtuanson179/learn-express-blog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
